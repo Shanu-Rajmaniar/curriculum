@@ -23,7 +23,7 @@ It returns your username. Cool!
 
 #### Why learn this now?
 
-You will be making heavy use of the command line throughout this curriculum, and the upcoming installations project will need you to install many different software programs using the command line. Additionally, you will primarily be using Git within the command line (more on this later). As part of the bigger picture, you may well be using the command line on a daily basis in your career as a software developer, making it an indispensable skill in your toolset.
+You will be making heavy use of the command line throughout this curriculum, and the upcoming installations project will need you to install many different software programs using the command line. Additionally, you will primarily be using Git within the command line (more on this later). As part of the bigger picture, you may will be using the command line on a daily basis in your career as a software developer, making it an indispensable skill in your toolset.
 
 ### Learning Outcomes
 By the end of this lesson, you should be able to do the following:
